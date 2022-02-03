@@ -119,7 +119,6 @@ func (p *Provider) DeleteRecords(ctx context.Context, zone string, records []lib
 	}
 
 	return records, nil
-
 }
 
 func (p *Provider) client() (*client, error) {

@@ -1,4 +1,4 @@
-module github.com/libdns/powerdns
+module github.com/Splamy/powerdns
 
 go 1.16
 
